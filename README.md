@@ -13,8 +13,8 @@ Atualmente utilizando as formas "free-to-play" dessas ferramentas.
 ## 😎 Projetos
 | Nome | Link |
 |-------|---------|
-|Projeto 1 - Video|[Explorando a Inteligência Artificial]()| 
-
+|Projeto 1 - Video|[Explorando a Inteligência Artificial](https://github.com/CarlosJot4/Estudo-de-IA/tree/main/Projeto%201%20-%20video)| 
+|Projeto 2 - Video|[Inteligência Artificial Generativa](https://github.com/CarlosJot4/Estudo-de-IA/tree/main/Projeto%202%20-%20video)|
 
 ## 😜 Outras coisas
 
